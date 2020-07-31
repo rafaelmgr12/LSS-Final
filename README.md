@@ -1,10 +1,10 @@
 # Large Scale Structe - Final Project
 **Here are the final project for the discipline in the LSS-2019.02**
 
+
 We analyse the Baryon Acoustic Oscillation Survey (BOSS) data release (DR12). Through ,we will
 analyze the North and South BOSS galaxy maps, where galaxies in this work start with z = 0.5 and
-go to z = 0.75. Using the ```math 
-\Lamda```cdm model with no curvature, and calculate the power spectrum from
+go to z = 0.75. Using the Λ cdm model with no curvature, and calculate the power spectrum from
 this data. From the power spectrum estimate the uncertainties of the measurements, and for this
 we use a covariance matrix not just to estimate the uncertainties but to calculate the correlation
 between different data points.Soon after we will retrieve the Baryon Acoustic Oscillation (BAO)
