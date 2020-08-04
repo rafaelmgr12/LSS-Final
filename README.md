@@ -3,6 +3,7 @@
 **To run the Shell script use**
 
 `chmod +x get_data.sh`
+
 `./get_data.sh`
 
 We analyse the Baryon Acoustic Oscillation Survey (BOSS) data release (DR12). Through ,we will
